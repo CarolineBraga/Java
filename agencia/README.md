@@ -1,6 +1,6 @@
 # Agência bancária
 
-<p> Consiste num sistema onde é possível gerenciar agências bancárias. Permite o cadastro de clientes, gerentes, agências e contas (armazenando o seu histórico de operações). </p>
+<p> Consiste num sistema onde é possível gerenciar agências bancárias. Permite o cadastro de clientes, gerentes, agências e contas (além de armazenar o seu histórico de operações). </p>
 
 ## Funcionalidades:
 
