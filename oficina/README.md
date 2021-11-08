@@ -4,7 +4,6 @@
 
 ## Funcionalidades:
 
-- [x] Cadastro de usuário
 - [x] Cadastro de cliente
 - [x] Cadastro de funcionário
 - [x] Cadastro de ordem de serviço
